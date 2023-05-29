@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi! I'm Belén and I'm currently studying in 42 Málaga.<br>Here I'm learning C, Python, System Administration, etc.
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli8qo8n9012808jurb7k0x1m/stats?cursusId=21&coalitionId=274" alt="begarijo's 42 stats" /></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belengarijotaillefer) 
